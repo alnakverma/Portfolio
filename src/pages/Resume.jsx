@@ -32,7 +32,7 @@ const Resume = () => {
          
         <div class="flex h-[30vh] items-center blue-gradient_text font-semibold drop-shadow">
         <h1 class="mx-auto head-text btn" >
-        <a href='https://drive.google.com/file/d/11B-kpDA0Sssinb2a6iEKNYWHisy7Bcn2/view?usp=sharing'> View Resume </a>
+        <a href='https://drive.google.com/file/d/1-uwiRu3YBzFN4RNqd-qOzLKhACYH_ui1/view?usp=sharing'> View Resume </a>
         </h1>
         </div>
   
