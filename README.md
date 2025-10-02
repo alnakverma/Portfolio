@@ -2,7 +2,7 @@
 
 A stunning **3D portfolio website** built using **React** and **Three.js** to showcase projects, skills, and achievements in an immersive way.  
 
-🔗 **Live Demo:** [ Portfolio Website](https://portfolio-git-main-anujs-projects-c1787fce.vercel.app/)
+🔗 **Live Demo:** [ Portfolio Website](https://portfolio-three-rho-35.vercel.app/)
 
 ## 🚀 Features  
 
