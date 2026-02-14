@@ -22,7 +22,7 @@ import {
   
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-          Hi, I'm Anuj Kumar Verma, a pre-final year Computer Science & Engineering student at 
+          Hi, I'm Anuj Kumar Verma, a final year Computer Science & Engineering student at 
           Indian Institute of Information Technology, Agartala. I'm a passionate software developer 
           who loves to code and build things that live on the internet. I am a quick learner and a 
           team player who is always ready to learn new technologies and work with new people. 

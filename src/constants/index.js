@@ -1,6 +1,4 @@
 import { meta, shopify, starbucks, tesla } from "../assets/images";
-import c from "../assets/icons/c.svg"; 
-import cpp from "../assets/icons/cpp.svg";
 import brainwave from "../assets/icons/brainwave.svg"; 
 import apple from "../assets/icons/apple.svg";
 import gamingworld from "../assets/icons/gamingworld.svg"; 
@@ -31,7 +29,29 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    c,
+    cpp,
+    java,
+    python,
+    angular,
+    django,
+    spring,
+    docker,
+    kubernetes,
+    jenkins,
+    linux,
+    mysql,
+    postgressql,
+    apachecassandra,
+    apachemaven,
+    aws,
+    azure,
+    googlecloud,
+    vs_code,
+    intellij_idea,
+    postman
+
 } from "../assets/icons";
 
 export const skills = [
@@ -43,6 +63,16 @@ export const skills = [
     {
         imageUrl: cpp,
         name: "C++",
+        type: "Programming Language",
+    },
+    {
+        imageUrl: java,
+        name: "Java",
+        type: "Programming Language",
+    },
+    {
+        imageUrl: python,
+        name: "Python",
         type: "Programming Language",
     },
     {
@@ -95,16 +125,31 @@ export const skills = [
         name: "MongoDB",
         type: "Database",
     },
+     {
+        imageUrl: angular,
+        name: "Angular",
+        type: "Frontend",
+    },
+    {
+        imageUrl: django,
+        name: "django",
+        type: "Backend",
+    },
+    {
+        imageUrl: spring,
+        name: "spring",
+        type: "Backend",
+    },
     {
         imageUrl: motion,
         name: "Motion",
         type: "Animation",
     },
-    {
-        imageUrl: mui,
-        name: "Material-UI",
-        type: "Frontend",
-    },
+    // {
+    //     imageUrl: mui,
+    //     name: "Material-UI",
+    //     type: "Frontend",
+    // },
     {
         imageUrl: nextjs,
         name: "Next.js",
@@ -116,16 +161,93 @@ export const skills = [
         type: "Backend",
     },
     
+    // {
+    //     imageUrl: redux,
+    //     name: "Redux",
+    //     type: "State Management",
+    // },
+
     {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
+        imageUrl: postman,
+        name: "Postman",
+        type: "API Tester",
     },
     
     {
         imageUrl: sass,
         name: "Sass",
         type: "Frontend",
+    },
+
+    {
+        imageUrl: docker,
+        name: "Docker",
+        type: "Tool",
+    },
+    {
+        imageUrl: kubernetes,
+        name: "Kubernetes",
+        type: "Tool",
+    },
+    {
+        imageUrl: jenkins,
+        name: "Jenkins",
+        type: "Tool",
+    },
+    {
+        imageUrl: linux,
+        name: "Linux",
+        type: "OS",
+    },
+    {
+        imageUrl: mysql,
+        name: "MySQL",
+        type: "Database",
+    },
+    {
+        imageUrl: postgressql,
+        name: "PostgresSQL",
+        type: "Database",
+    },
+    
+    {
+        imageUrl: apachecassandra,
+        name: "Apache Cassandra",
+        type: "Database",
+    },
+    
+    {
+        imageUrl: apachemaven,
+        name: "Apache Maven",
+        type: "Tool",
+    },
+
+    {
+        imageUrl: aws,
+        name: "AWS",
+        type: "Cloud",
+    },
+    {
+        imageUrl: azure,
+        name: "Azure",
+        type: "Cloud",
+    },
+    {
+        imageUrl: googlecloud,
+        name: "Google Cloud",
+        type: "Cloud",
+    },
+    
+    {
+        imageUrl: vs_code,
+        name: "Visual Studio Code",
+        type: "Tool",
+    },
+    
+    {
+        imageUrl: intellij_idea,
+        name: "Intellij Idea",
+        type: "Tool",
     }
     
 ];
@@ -199,7 +321,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/anuj-kumar-verma-046a71257/',
+        link: 'https://www.linkedin.com/in/anuj10-kumar-verma/',
     }
 ];
 

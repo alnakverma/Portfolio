@@ -26,6 +26,27 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import c from './c.svg'
+import cpp from './cpp.svg'
+import java from './java.svg'
+import python from './python.svg'
+import angular from './angular.svg'
+import django from './django.svg'
+import spring from './spring.svg'
+import docker from './docker.svg'
+import kubernetes from './kubernetes.svg'
+import jenkins from './jenkins.svg'
+import linux from './linux.svg'
+import mysql from './mysql.svg'
+import postgressql from './postgressql.svg'
+import apachecassandra from './apachecassandra.svg'
+import apachemaven from './apachemaven.svg'
+import aws from './aws.svg'
+import azure from './azure.svg';
+import googlecloud from './googlecloud.svg';
+import vs_code from './vs_code.svg'
+import intellij_idea from './intellij_idea.svg'
+import postman from './postman.svg'
 
 export {
     css,
@@ -55,5 +76,26 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    c,
+    cpp,
+    python,
+    java,
+    angular,
+    django,
+    spring,
+    docker,
+    kubernetes,
+    jenkins,
+    linux,
+    mysql,
+    postgressql,
+    apachecassandra,
+    apachemaven,
+    aws,
+    azure,
+    googlecloud,
+    vs_code,
+    intellij_idea,
+    postman
 }
