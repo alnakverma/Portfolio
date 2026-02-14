@@ -32,7 +32,7 @@ import {
     typescript,
     c,
     cpp,
-    // java,
+    java,
     python,
     angular,
     django,
@@ -65,11 +65,11 @@ export const skills = [
         name: "C++",
         type: "Programming Language",
     },
-    // {
-    //     imageUrl: java,
-    //     name: "Java",
-    //     type: "Programming Language",
-    // },
+    {
+        imageUrl: java,
+        name: "Java",
+        type: "Programming Language",
+    },
     {
         imageUrl: python,
         name: "Python",
