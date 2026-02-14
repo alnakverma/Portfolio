@@ -28,7 +28,7 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import c from './c.svg'
 import cpp from './cpp.svg'
-import java from './java.svg'
+// import java from './java.svg'
 import python from './python.svg'
 import angular from './angular.svg'
 import django from './django.svg'
@@ -80,7 +80,7 @@ export {
     c,
     cpp,
     python,
-    java,
+    // java,
     angular,
     django,
     spring,
